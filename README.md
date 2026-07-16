@@ -25,7 +25,7 @@ The live product site is available at [www.onzaris.com](https://www.onzaris.com)
 
 ## Current validation stage
 
-Onzaris is being validated through a paid, assisted pilot for one bounded competition. The key question is not whether AI can generate a schedule; it is whether an organization can remove manual work without creating another layer of duplicate entry beside its mandated system.
+Onzaris is designed to be validated through a paid, assisted pilot for one bounded competition. The key question is not whether AI can generate a schedule; it is whether an organization can remove manual work without creating another layer of duplicate entry beside its mandated system.
 
 The next evidence target is a small cohort of real organizations willing to share a workflow, provide a non-sensitive export and test a parallel operating loop with measurable success criteria.
 
